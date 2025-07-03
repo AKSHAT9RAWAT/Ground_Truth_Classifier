@@ -1,0 +1,121 @@
+[
+  {
+    "cluster_id": "000",
+    "tags": [
+      "a group",
+      "people",
+      "children",
+      "graduation gowns",
+      "the stage"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "001",
+    "tags": [
+      "a group",
+      "people",
+      "a large crowd",
+      "a large group"
+    ],
+    "label": -1
+  },
+  {
+    "cluster_id": "002",
+    "tags": [
+      "the ice rink",
+      "a hockey team",
+      "a game",
+      "a hockey game",
+      "a group",
+      "people"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "003",
+    "tags": [
+      "a boy",
+      "a red graduation gown",
+      "a woman",
+      "a graduation gown",
+      "a man",
+      "cap"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "004",
+    "tags": [
+      "a group",
+      "graduates",
+      "a crowd",
+      "people",
+      "four graduates"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "005",
+    "tags": [
+      "a skate park",
+      "a skateboarder",
+      "a skateboard",
+      "a ramp"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "006",
+    "tags": [
+      "a pirate",
+      "a boat",
+      "a man",
+      "a pirate costume",
+      "a bench"
+    ],
+    "label": -1
+  },
+  {
+    "cluster_id": "007",
+    "tags": [
+      "a white house",
+      "a balcony",
+      "a large white house",
+      "a girl",
+      "a face",
+      "a clock",
+      "the roof",
+      "a white balcony railing",
+      "a carousel",
+      "a man",
+      "it"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "008",
+    "tags": [
+      "a woman",
+      "stage",
+      "a man",
+      "a group",
+      "men",
+      "a piano",
+      "a stage",
+      "man",
+      "a microphone"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "009",
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a building"
+    ],
+    "label": 1
+  }
+]

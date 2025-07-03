@@ -1,0 +1,4 @@
+Pillow
+transformers
+spacy
+torch 

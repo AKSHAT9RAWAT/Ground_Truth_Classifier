@@ -1,0 +1,648 @@
+[
+  {
+    "cluster_id": "000",
+    "tags": [
+      "a group",
+      "people",
+      "children",
+      "graduation gowns",
+      "the stage"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "001",
+    "tags": [
+      "a group",
+      "people",
+      "a large crowd",
+      "a large group"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "002",
+    "tags": [
+      "the ice rink",
+      "a hockey team",
+      "a game",
+      "a hockey game",
+      "a group",
+      "people"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "003",
+    "tags": [
+      "a boy",
+      "a red graduation gown",
+      "a woman",
+      "a graduation gown",
+      "a man",
+      "cap"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "004",
+    "tags": [
+      "a group",
+      "graduates",
+      "a crowd",
+      "people",
+      "four graduates"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "005",
+    "tags": [
+      "a skate park",
+      "a skateboarder",
+      "a skateboard",
+      "a ramp"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "006",
+    "tags": [
+      "a pirate",
+      "a boat",
+      "a man",
+      "a pirate costume",
+      "a bench"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "007",
+    "tags": [
+      "a white house",
+      "a balcony",
+      "a large white house",
+      "a girl",
+      "a face",
+      "a clock",
+      "the roof",
+      "a white balcony railing",
+      "a carousel",
+      "a man",
+      "it"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "008",
+    "tags": [
+      "a woman",
+      "stage",
+      "a man",
+      "a group",
+      "men",
+      "a piano",
+      "a stage",
+      "man",
+      "a microphone"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "009",
+    "tags": [
+      "a group",
+      "people",
+      "front",
+      "a building"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "010",
+    "tags": [
+      "three women",
+      "graduation gowns",
+      "a group",
+      "people",
+      "a woman",
+      "a white graduation gown",
+      "two women"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "011",
+    "tags": [
+      "a woman",
+      "a graduation gown",
+      "a black metal railing",
+      "a man"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "012",
+    "tags": [
+      "a woman",
+      "two girls",
+      "candles",
+      "a cake",
+      "two children",
+      "two young girls",
+      "a little girl",
+      "a table",
+      "a baby",
+      "a girl"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "013",
+    "tags": [
+      "a man",
+      "a musical instrument",
+      "a living room",
+      "guitar",
+      "front",
+      "a table",
+      "a bunch",
+      "records",
+      "a bat",
+      "a group",
+      "people",
+      "drums"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "014",
+    "tags": [
+      "a group",
+      "graduates",
+      "people",
+      "chairs"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "015",
+    "tags": [
+      "a man",
+      "a graduation gown",
+      "a woman"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "016",
+    "tags": [
+      "a group",
+      "women",
+      "front",
+      "a house",
+      "girls",
+      "people",
+      "a building",
+      "a woman",
+      "a bench",
+      "a field",
+      "a man",
+      "woman"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "017",
+    "tags": [
+      "a group",
+      "people",
+      "a man",
+      "a suit"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "018",
+    "tags": [
+      "a woman",
+      "a pink shorts",
+      "pink shorts",
+      "a fence",
+      "a sidewalk"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "019",
+    "tags": [
+      "a screen",
+      "a white text",
+      "it",
+      "a white screen",
+      "a message",
+      "a picture",
+      "a person",
+      "a presentation",
+      "a logo"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "020",
+    "tags": [
+      "a vintage car",
+      "a parking lot",
+      "a car",
+      "a man",
+      "it",
+      "a blue and white car",
+      "a black car",
+      "a green car",
+      "a couple",
+      "old cars",
+      "a parking"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "021",
+    "tags": [
+      "a large group",
+      "graduates",
+      "a group",
+      "people",
+      "a crowd"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "022",
+    "tags": [
+      "a man",
+      "a baby",
+      "a high chair"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "023",
+    "tags": [
+      "a large group",
+      "people",
+      "a woman",
+      "a graduation gown",
+      "a man"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "024",
+    "tags": [
+      "man",
+      "a santa suit",
+      "a woman",
+      "a chair",
+      "a girl",
+      "a santa costume",
+      "a man"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "025",
+    "tags": [
+      "a man",
+      "a microphone",
+      "two other men",
+      "guitar",
+      "a group",
+      "people",
+      "music",
+      "a room",
+      "guitars",
+      "front"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "026",
+    "tags": [
+      "a man",
+      "a black shirt",
+      "a gray shirt",
+      "a stage",
+      "a podium"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "027",
+    "tags": [
+      "a group",
+      "people",
+      "a table",
+      "a cake",
+      "wine"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "028",
+    "tags": [
+      "a man",
+      "a rock",
+      "a rock face",
+      "a woman"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "029",
+    "tags": [
+      "a group",
+      "people",
+      "skates",
+      "a street",
+      "skateboards",
+      "a game",
+      "roller skate",
+      "women",
+      "roller skates"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "030",
+    "tags": [
+      "a group",
+      "children",
+      "a table",
+      "a cake",
+      "people"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "031",
+    "tags": [
+      "a group",
+      "people",
+      "a basketball court"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "032",
+    "tags": [
+      "a woman",
+      "a white skirt",
+      "a man",
+      "white pants",
+      "a white dress",
+      "a white shirt"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "033",
+    "tags": [
+      "a bride",
+      "groom kissing",
+      "a group",
+      "people",
+      "a man",
+      "woman",
+      "steps",
+      "a woman",
+      "the sidewalk",
+      "a picture"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "034",
+    "tags": [
+      "a man",
+      "front",
+      "a table",
+      "a podium",
+      "a group",
+      "people",
+      "a screen",
+      "a large screen"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "035",
+    "tags": [
+      "a man",
+      "a graduation gown",
+      "a woman",
+      "a stage"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "036",
+    "tags": [
+      "a man",
+      "a baby",
+      "a boy",
+      "the floor"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "037",
+    "tags": [
+      "a group",
+      "children",
+      "a woman",
+      "two children",
+      "a field",
+      "a baby",
+      "people",
+      "a child"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "038",
+    "tags": [
+      "a woman",
+      "a red dress",
+      "a man",
+      "a suit",
+      "a table",
+      "a group",
+      "people"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "039",
+    "tags": [
+      "a statue",
+      "the background",
+      "a group",
+      "people",
+      "a bird",
+      "a lion",
+      "two women",
+      "a fountain",
+      "a man",
+      "a bouquet"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "040",
+    "tags": [
+      "a group",
+      "people",
+      "a table",
+      "a woman",
+      "glasses",
+      "a room",
+      "a fan",
+      "a baby",
+      "a young boy",
+      "the camera"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "041",
+    "tags": [
+      "a wall",
+      "pictures",
+      "it",
+      "four pictures",
+      "a white wall",
+      "a room",
+      "a wooden floor",
+      "a number",
+      "the wall"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "042",
+    "tags": [
+      "a large white ship",
+      "a large white boat",
+      "a large ship",
+      "the water"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "043",
+    "tags": [
+      "a man",
+      "woman",
+      "a room",
+      "a group",
+      "people",
+      "a table",
+      "women",
+      "a couch",
+      "a white bus",
+      "a brown shirt",
+      "men"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "044",
+    "tags": [
+      "a group",
+      "people",
+      "a game",
+      "tennis",
+      "volleyball",
+      "girls",
+      "basketball",
+      "women",
+      "hockey",
+      "a man"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "045",
+    "tags": [
+      "a man",
+      "a platform",
+      "a boat",
+      "a woman",
+      "a black bathing suit",
+      "a pool",
+      "a diving board"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "046",
+    "tags": [
+      "a crowd",
+      "people",
+      "a large auditorium",
+      "rows",
+      "chairs",
+      "a hall",
+      "a group"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "047",
+    "tags": [
+      "a woman",
+      "two children",
+      "a stone fireplace",
+      "a man",
+      "woman",
+      "a family",
+      "a picture",
+      "front",
+      "a fireplace",
+      "a couch"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "048",
+    "tags": [
+      "a couple",
+      "a picture",
+      "a field",
+      "green grass",
+      "a group",
+      "people",
+      "a river",
+      "a woman",
+      "a white dress",
+      "a kite"
+    ],
+    "label": 1
+  },
+  {
+    "cluster_id": "049",
+    "tags": [
+      "a group",
+      "people",
+      "a christmas tree",
+      "a couch",
+      "a man",
+      "a blue shirt",
+      "woman",
+      "a table",
+      "a woman",
+      "a baby"
+    ],
+    "label": 1
+  }
+]
